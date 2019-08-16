@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <button onclick="diaSemana()">Dia</button>
+    <script>
+        function diaSemana() {
+            var nombreDia = prompt("Ingrese un día de la semana");
+            if (nombreDia == "lunes" || nombreDia == "martes" || nombreDia == "miercoles" || nombreDia=="miércoles" || nombreDia == "jueves" || nombreDia == "viernes") {
+                alert("Es un dia entre semana");
+            } else {
+                if (nombreDia == "sabado" || nombreDia == "sábado" || nombreDia == "domingo"){
+                    alert("Es un día de fin de semana");
+                } else {
+                    alert("Por favor ingresar un dia de la semana")
+                }
+            }
+        }
+    </script>
+</body>
+
+</html>

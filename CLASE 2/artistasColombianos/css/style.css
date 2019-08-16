@@ -1,0 +1,38 @@
+/* estilo para body */
+body {
+  background-color: black;
+}
+
+/* estilo para p */
+p {
+  color: aliceblue;
+  font-size: 25px;
+  margin: 25px;
+}
+
+/* Se crea un id para un <h1> para asignarle estilo */
+#tituloPrincipal {
+  color: rgba(106, 115, 231, 0.644);
+  font-size: 50px;
+}
+/* Se crea un clase para centrar texto */
+.centrado{
+    text-align: center;
+}
+
+/* Se crea un clase para justificar texto */
+.justificar{
+    text-align: justify;
+}
+
+/* Se crea un clase para centrar imagenes */
+.centradoImg{
+    display: block;   /* bloqueamos la imagen para afectarla solo por esta clase */
+    margin: auto;     /* margen auto es centrado */
+}
+
+/* estilo para h1*/
+/*h1 {
+  color: rgba(0, 0, 255, 0.349);
+  font-size: 50px;
+}

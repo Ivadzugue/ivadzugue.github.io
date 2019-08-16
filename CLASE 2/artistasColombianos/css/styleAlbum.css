@@ -1,0 +1,14 @@
+h1 {
+  color: rgba(70, 70, 146, 0.521);
+  font-size: 45px;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+table, td {
+  margin: 0 auto;
+  border: white 5px solid;
+}

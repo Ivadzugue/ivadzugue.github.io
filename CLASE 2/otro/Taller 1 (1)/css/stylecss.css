@@ -1,0 +1,16 @@
+/* estilos de la pagina de CSS*/ 
+body{
+    background-color: blue;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+.centrar{
+    display: block;
+    margin:auto;
+}
+p{
+    font-size: 20px;
+}

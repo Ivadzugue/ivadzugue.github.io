@@ -1,0 +1,18 @@
+/* estilos de la pagina del index*/ 
+body{
+    /*background: rgb(222, 222, 222);*/
+    background-image: url(../img/programar.jpg);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+table, td{
+    margin: 0 auto;
+    border: black 3px solid;
+    border-collapse: collapse;
+}
+p{
+    font-size: 20px;
+}
+

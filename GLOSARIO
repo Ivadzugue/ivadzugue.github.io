@@ -1,0 +1,11 @@
+								GLOSARIO
+
+DOMINIO					Direccion o ruta de nuestra página web o proyecto web.	
+SERVIDOR				Una maquina (computador) que presta sus servicios 24/7.
+HOSTING 				Espacio de almacenamiento.
+DIRECCION IP			Coordenadas de internter ejemplo 192.169.0.1.
+PAGINA WEB				Es un archivo que contien información tanto imagenes como texto o multimedia.
+SITIO WEB				Un conjunto de paginas web entrelazadas, que muestra información y contienen elementos multimedias.
+APLICACIONES WEB		Contiene backend creado con un lenguaje de programación y puede tener conexión a una base de datos.
+<META>					Configuraciones del archivo html y se ubican en el head 
+RESPONSE				Configuracion de estilos en paginas web para que se adapten a las pantallas moviles

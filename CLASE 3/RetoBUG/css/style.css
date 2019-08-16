@@ -1,0 +1,18 @@
+h1{
+    color: yellow;
+    font-size: 50px;
+    text-align: center;
+}
+body{
+    background-image: url(../img/imgJS1.jpg);
+}
+td{
+    margin: 0 auto;
+    border: red 5px solid;
+}
+div{
+    text-align: center;
+}
+a{
+    font-size: 50px;
+}
